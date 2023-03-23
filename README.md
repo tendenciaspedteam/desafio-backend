@@ -21,6 +21,7 @@ Nesse desafio você deve criar um programa de linha de comando (cli) que lê um 
 * A partir do problema descrito acima, você pode fazer uma solução muito básica ou adicionar recursos opcionais que não foram descritos. Use seu tempo com sabedoria. Portanto, seria melhor se você apresentasse a melhor solução possível que durasse o menor tempo possível e ainda pudesse mostrar suas habilidades para provar seu valor;
 * Só aceitamos soluções que implementem TODAS AS CARACTERÍSTICAS descritas acima. Testes incompletos ou com erro não serão considerados;
 * Devemos ser capazes de executar sua solução com configuração mínima (documente no README).
+* O banco de Dados deve ser um banco de dados relacional (Postgres, MySQL, MariaDB, etc)
 
 ## 2. Implemente uma Documentação
 ### Problema
