@@ -5,7 +5,7 @@
 <h1 align="center">Desafios de Backend</h1>
 <p align = "center">Lista de desafios para o processo seletivo para backend</p>
 
-## 1. Um programa para popular um banco de dados com milhares de filmes
+## Desafio 1: Um programa para popular um banco de dados com milhares de filmes
 ### Problema
 Nesse desafio você deve criar um programa de linha de comando (cli) que lê um arquivo csv de filmes e popula um banco de dados pensando em performance e esperando que o arquivo pode crescer muito.
 ### Requisitos
@@ -23,7 +23,9 @@ Nesse desafio você deve criar um programa de linha de comando (cli) que lê um 
 * Devemos ser capazes de executar sua solução com configuração mínima (documente no README).
 * O banco de Dados deve ser um banco de dados relacional (Postgres, MySQL, MariaDB, etc)
 
-## 2. Implemente uma Documentação
+
+
+## Desasfio 2: Implemente uma Documentação
 ### Problema
 Neste desafio, você terá que criar uma documentação a partir de um código fornecido. O código em questão contém uma classe com métodos e atributos que precisam ser explicados. Sendo assim, sua tarefa consiste em descrever o que cada método faz e como eles funcionam.
 
