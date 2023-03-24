@@ -65,13 +65,13 @@ class MyClass1:
     @staticmethod
     def method5(x:List[int], y:List[int])->int:
         
-        full_list = [*x,*y]
-        full_list.sort()
-        if len(full_list)%2 == 0:
-            median = (full_list[len(full_list)//2] + full_list[len(full_list)//2-1])/2
+        z = [*x,*y]
+        z.sort()
+        if len(z)%2 == 0:
+            result = (z[len(z)//2] + z[len(z)//2-1])/2
             
         else:
-            median = full_list[len(full_list)//2]
+            result = z[len(z)//2]
         
-        return median
+        return result
     
